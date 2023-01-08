@@ -1,0 +1,11 @@
+.fullscreen-root, .fullscreen-content {
+  padding: 0px !important;
+}
+
+.fullscreen-root,
+.fullscreen-content,
+.fullscreen-card {
+  overflow:hidden;
+  height:100%;
+  width:100%;
+}
